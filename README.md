@@ -51,11 +51,23 @@ Therefore to look at this from another perspective we need to understand that we
 
 ### (0.3) Algorithm to calculate Arithmetic and Geometric Progression
 
-//
+Objective- Create a Program capable of calculating the Arithmetic and Geometric Progression of an inputted number.
 
-//
+Language/ID : C++, Repl.IT 
 
-//
+Algorithm:
+
+// Take a number (integer | input).
+
+// Multiply the number (input) by itself (Operator *).  
+
+// Inconjunction use addition to merge or double (Add) the number (input) by itself (Operator +).
+
+// Loop said functions displayed above until set variable equal to a pre-set value (re-do the above multiple times).
+
+// Give the final values once the calculations are done (Print the values).
+
+// The * relates to the Geometric, whilst the + is linked to calculating the Arithmetic.
 
 ### (0.4) 
 
