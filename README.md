@@ -19,7 +19,11 @@ This repository pertains information relating to  mathematical methodologies, id
 
 
 
-### (0.0)
+### (0.0) Introduction 
+
+This repository pertains information relating to  mathematical methodologies, ideology's and answers to specified questions. 
+
+## Table Of Contents
 
 
 ### (0.1) How to calculate the greatest common divisor and-least common-multiple of a given pair of numbers?
