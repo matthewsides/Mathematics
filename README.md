@@ -52,7 +52,9 @@ Therefore to look at this from another perspective we need to understand that we
 ### (0.3) Algorithm to calculate Arithmetic and Geometric Progression
 
 //
+
 //
+
 //
 
 ### (0.4) 
