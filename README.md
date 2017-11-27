@@ -49,7 +49,13 @@ The probability of a random integer being divisible by 5 is 1/5 how do we know t
 
 Therefore to look at this from another perspective we need to understand that we cannot generate a random number and only create the appearance of random selection from a finite or select amount of possibilities  repeatedly, whilst increasing the size of the finite set of numbers (note:since the parameters or range of numbers are set) to ensure a different outcome each time.
 
-### (0.3)
+### (0.3) Algorithm to calculate Arithmetic and Geometric Progression
+
+//
+//
+//
+
+### (0.4) 
 
 
 
