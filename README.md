@@ -1,7 +1,9 @@
 # Mathematics
-This repository pertains information relating to  mathematical methodologies, ideology's and answers to specified questions. 
 
 
+|---------------|
+| Matthew Sides |
+|Version - 0.1  |
 ## Table Of Contents
 
 0.0 Introduction
