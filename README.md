@@ -3,7 +3,7 @@
 
 |---------------|
 | Matthew Sides |
-|Version - 0.1  |
+|-------------- |
 ## Table Of Contents
 
 0.0 Introduction
