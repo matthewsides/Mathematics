@@ -75,7 +75,7 @@ Algorithm:
 
 View Notepad file labelled 'Calculator-arithmetic-geometric' for code-snippet pertaining to the above documentation.
 
-For the Download, ZIP the repository and then extract the required files copying and pasting the code into an ID (Inparticular; Repl.IT, Visual Studios, etc.) for testing. Recommended: Use the command line console whilst in both build and finished mode.
+For the Download, ZIP the repository and then extract the required files copying and pasting the code into an ID (Inparticular; Repl.IT, Visual Studios, etc.) for testing. Recommended: Use the command line console whilst in both build mode and with the finished build.
 
 ### (0.4) 
 
