@@ -1,9 +1,18 @@
 # Mathematics
 
+  Version 1.00
+  27/11/2017
+     
 
-|---------------|
-| Matthew Sides |
-|-------------- |
+| Version     | Author          | Date                 | Comments                       |
+|-------------|-----------------|----------------------|--------------------------------|
+| 1.00        |  Matthew Sides  | 27th  November 2017  | Initial Version                |
+|             |                 |                      |                                | 
+|             |                 |                      |                                | 
+|             |                 |                      |                                |
+|             |                 |                      |                                |
+|                                                                                       | 
+
 ## Table Of Contents
 
 0.0 Introduction
