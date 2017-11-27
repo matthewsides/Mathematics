@@ -22,4 +22,4 @@ This repository pertains information relating to  mathematical methodologies, id
 ### 0.0
 
 
-### 0.1- How to calculate the greatest common divisor and-least common-multiple of a given pair of numbers?
+### 0.1| How to calculate the greatest common divisor and-least common-multiple of a given pair of numbers?
