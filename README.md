@@ -22,7 +22,7 @@
 
 0.2 Probability of Int being Divisible by 5 ...
 
-0.3
+0.3 Algorithm to calculate Arithmetic and Geometric Progression
 
 0.4
 
