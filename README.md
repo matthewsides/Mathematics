@@ -24,7 +24,7 @@
 
 0.3 Algorithm to calculate Arithmetic and Geometric Progression
 
-0.4
+0.4 How to use integral calculus to solve practical problems involving area
 
 0.5
 
@@ -78,9 +78,9 @@ View Notepad file labelled 'Calculator-arithmetic-geometric' for code-snippet pe
 
 For the Download, ZIP the repository and then extract the required files copying and pasting the code into an ID (Inparticular; Repl.IT, Visual Studios, etc.) for testing. Recommended: Use the command line console whilst in both build mode and with the finished build.
 
-### (0.4) 
+### (0.4) How to use integral calculus to solve practical problems involving area
 
-
+### (0.5)
 
 
 
