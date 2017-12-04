@@ -80,6 +80,13 @@ For the Download, ZIP the repository and then extract the required files copying
 
 ### (0.4) How to use integral calculus to solve practical problems involving area
 
+#### Integral 
+In mathematics, an integral assigns numbers to functions in a way that can describe displacement, area, volume, and other concepts that arise by combining infinitesimal data. 
+
+#### Indefinite integral 
+An Indefinite integral is essentially the opposite of an derivative 
+
+
 ### (0.5)
 
 
