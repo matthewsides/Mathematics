@@ -26,7 +26,7 @@
 
 0.4 How to use integral calculus to solve practical problems involving area
 
-0.5
+0.5 Algorithm to identify simple shapes using co-ordinates
 
 
 
@@ -87,8 +87,15 @@ In mathematics, an integral assigns numbers to functions in a way that can descr
 An Indefinite integral is essentially the opposite of an derivative 
 
 
-### (0.5)
+### (0.5) Algorithm to identify simple shapes using co-ordinates
+
+Objective- Create a Program capable of identifying simple shapes using co-ordinates.
+
+Aims- [Take Input, Display Output, Loop multiple times, identify simple shapes using cordinates.]
+
+Language/ID : C++, Repl.IT 
+
+Algorithm:
 
 
-
-
+For the Download, ZIP the repository and then extract the required files copying and pasting the code into an ID (Inparticular; Repl.IT, Visual Studios, etc.) for testing. Recommended: Use the command line console whilst in both build mode and with the finished build.
