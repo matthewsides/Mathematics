@@ -96,6 +96,7 @@ Aims- [Take Input, Display Output, Loop multiple times, identify simple shapes u
 Language/ID : C++, Repl.IT, Notepad++ 
 
 Algorithm:
+
 // Store or hold values that make a shape.
 
 // Take (input) X and Y cordinates (maximum amount of cords required equals four)
