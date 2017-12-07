@@ -93,7 +93,7 @@ Objective- Create a Program capable of identifying simple shapes using co-ordina
 
 Aims- [Take Input, Display Output, Loop multiple times, identify simple shapes using cordinates.]
 
-Language/ID : C++, Repl.IT 
+Language/ID : C++, Repl.IT, Notepad++ 
 
 Algorithm:
 // Store or hold values that make a shape.
@@ -116,6 +116,6 @@ Links used for reference:
 
 https://www.mathsisfun.com/pythagoras.html
 
-View Notepad file labelled '' for code-snippet pertaining to the above documentatio
+View C++ file labelled 'simple-shape-identifier' for code-snippet pertaining to the above documentation
 
-For the Download, ZIP the repository and then extract the required files copying and pasting the code into an ID (Inparticular; Repl.IT, Visual Studios, etc.) for testing. Recommended: Use the command line console whilst in both build mode and with the finished build.
+For the Download, ZIP the repository and then extract the required files either copying and pasting the code into an IDE or opening it in an IDE (Inparticular; Repl.IT, Visual Studios, Notepad++, etc.) for testing. Recommended: Use the command line console whilst in both build mode and with the finished build.
