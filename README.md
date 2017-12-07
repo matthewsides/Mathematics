@@ -101,13 +101,13 @@ Algorithm:
 
 // Take (input) X and Y cordinates (maximum amount of cords required equals four)
 
-// store the shaoe cords twice in the same variable.
+// Store the shape cords twice in the same variable.
 
 // Use pythagoras theorem a2 + b2 = c2 on the pre stored cord values that when connected form either a square or rectangle.
 
 // Once the value has been doubled, added and squared by itself square root the value 
 
-// Furthermore check the points to each other to decphiher what shaoe the cordinates form when measuring the distance and are connected.
+// Furthermore check the points to each other to decphiher what shape the cordinates form when measuring the distance and are connected.
 
 // if all sides are equal to 0 it will form a rectangle
 
