@@ -102,7 +102,7 @@ Algorithm:
 
 // store the shaoe cords twice in the same variable.
 
-// Use pythagoras therom a2 + b2 = c2 on the pre stored cord values that when connected form either a square or rectangle.
+// Use pythagoras theorem a2 + b2 = c2 on the pre stored cord values that when connected form either a square or rectangle.
 
 // Once the value has been doubled, added and squared by itself square root the value 
 
@@ -115,6 +115,8 @@ Algorithm:
 Links used for reference:
 
 https://www.mathsisfun.com/pythagoras.html
+
+The above link is and was integeral to understanding the progam, as pythagoras (theorem) is applied in the algortihm and code.
 
 View C++ file labelled 'simple-shape-identifier' for code-snippet pertaining to the above documentation
 
