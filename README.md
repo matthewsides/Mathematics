@@ -28,7 +28,7 @@
 
 0.5 Algorithm to identify simple shapes using co-ordinates
 
-0.6 How to calculate probabilities
+0.6 probabilities
 
 
 
@@ -127,4 +127,18 @@ View C++ file labelled 'simple-shape-identifier' for code-snippet pertaining to 
 
 For the Download, ZIP the repository and then extract the required files either copying and pasting the code into an IDE or opening it in an IDE (Inparticular; Repl.IT, Visual Studios, Notepad++, etc.) for testing. Recommended: Use the command line console whilst in both build mode and with the finished build.
 
-### (0.6) How to calculate probabilities
+### (0.6) probabilities
+
+#### What is the probability of having 7 when rolling two die?
+
+The probablity of having a seven when rolling two die is 6/36 = 1/6, this outcome was found through adding the numbers on the two die for each of the possible outcomes, counting how many times the sum was seven. Through doing so it can be seen that the sum is seven for six of the possible outcomes. Thus the sum is a 7 in 6 of the 36 outcomes and hence the probability of rolling a 7 is 6/36 = 1/6.
+
+#### What is the probability of having having at least one 2 when rolling two die?
+
+The probability of having at least one two when rolling two die is 11/36, this numerical value coming to frutition using similiar  methods as the above question. The total number of possibilities can be obtained from the multiplication principle: there are 6 possibilities for dice one, and for each outcome for dice one, there are 6 possibilities for dice two. So, the total number of joint outcomes (diceone and dicetwo) is 6 times 6 which is 36. Thereafter countng how many times the sum was two which is 11, therefore the outcome 11/36.
+
+
+#### What is the probability of having 7 after rolling a 2?
+- Chances / Total = 1/6
+- What is the probability of having a 7, knowing for sure that I will roll a 2?
+ - Chances / Total = 11/36 
