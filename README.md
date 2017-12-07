@@ -108,6 +108,14 @@ Algorithm:
 
 // Furthermore check the points to each other to decphiher what shaoe the cordinates form when measuring the distance and are connected.
 
-// 
+// if all sides are equal to 0 it will form a rectangle
+
+// whilst if the cords do not equal to either a triangle, square or rectangle (simple shapes) no shape is given (outputted) just text stating that the values given are not a simple shape.
+
+Links used for reference:
+
+https://www.mathsisfun.com/pythagoras.html
+
+View Notepad file labelled '' for code-snippet pertaining to the above documentatio
 
 For the Download, ZIP the repository and then extract the required files copying and pasting the code into an ID (Inparticular; Repl.IT, Visual Studios, etc.) for testing. Recommended: Use the command line console whilst in both build mode and with the finished build.
