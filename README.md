@@ -28,7 +28,7 @@
 
 0.5 Algorithm to identify simple shapes using co-ordinates
 
-0.6 probabilities
+0.6 Probability
 
 
 
@@ -127,7 +127,7 @@ View C++ file labelled 'simple-shape-identifier' for code-snippet pertaining to 
 
 For the Download, ZIP the repository and then extract the required files either copying and pasting the code into an IDE or opening it in an IDE (Inparticular; Repl.IT, Visual Studios, Notepad++, etc.) for testing. Recommended: Use the command line console whilst in both build mode and with the finished build.
 
-### (0.6) probabilities
+### (0.6) Probability
 
 #### What is the probability of having 7 when rolling two die?
 
