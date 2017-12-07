@@ -140,9 +140,9 @@ The probability of having at least one two when rolling two die is 11/36, this n
 
 #### What is the probability of having 7 after rolling a 2?
 
-The probability of having a seven after rolling a two is 1/6 and does not change since rolling a two should not affect the probability since even after a two was rolled all the other outcomes including getting a two again are avaliable and therefore the probability should not have changed (its similiar to a trick question, expecting one to think that the probability would have changed from what it ussually would be in that instance using two die).
+The probability of having a seven after rolling a two is 1/6 and does not change since rolling a two should not affect the probability since even after a two was rolled all the other outcomes including getting a two again are avaliable and therefore the probability should not have changed (Its similiar to a trick question, expecting one to think that the probability would have changed from what it ussually would be in that instance using two die).
 
 #### What is the probability of having a 7, knowing for sure that I will roll a 2?
 
-The probability of having a seven and knowing for sure that a two will be rolled equates to 11/36, not changing from the usually probability as all the possible
- - Chances / Total = 11/36 
+The probability of having a seven and knowing for sure that a two will be rolled equates to 11/36, not changing from the usual probability as all the possible outcomes are still avaliable including the recently rolled seven, thus the probability in this instance has not changed (Similiar to the above question and  a trick question, expecting one to think that the probability would have changed from what it ussually would be in that instance using two die).
+
