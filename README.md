@@ -114,7 +114,7 @@ Algorithm:
 // whilst if the cords do not equal to either a triangle, square or rectangle (simple shapes) no shape is given (outputted) just text stating that the values given are not a simple shape.
 
 Links used for reference:
-
+http://www.cplusplus.com/reference/cmath/pow/
 https://www.mathsisfun.com/pythagoras.html
 
 The above link is and was integeral to understanding the progam, as pythagoras (theorem) is applied in the algortihm and code.
