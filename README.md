@@ -96,6 +96,18 @@ Aims- [Take Input, Display Output, Loop multiple times, identify simple shapes u
 Language/ID : C++, Repl.IT 
 
 Algorithm:
+// Store or hold values that make a shape.
 
+// Take (input) X and Y cordinates (maximum amount of cords required equals four)
+
+// store the shaoe cords twice in the same variable.
+
+// Use pythagoras therom a2 + b2 = c2 on the pre stored cord values that when connected form either a square or rectangle.
+
+// Once the value has been doubled, added and squared by itself square root the value 
+
+// Furthermore check the points to each other to decphiher what shaoe the cordinates form when measuring the distance and are connected.
+
+// 
 
 For the Download, ZIP the repository and then extract the required files copying and pasting the code into an ID (Inparticular; Repl.IT, Visual Studios, etc.) for testing. Recommended: Use the command line console whilst in both build mode and with the finished build.
