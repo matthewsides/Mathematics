@@ -28,6 +28,8 @@
 
 0.5 Algorithm to identify simple shapes using co-ordinates
 
+0.6 How to calculate probabilities
+
 
 
 
@@ -124,3 +126,5 @@ The above link is and was integeral to understanding the progam, as pythagoras (
 View C++ file labelled 'simple-shape-identifier' for code-snippet pertaining to the above documentation
 
 For the Download, ZIP the repository and then extract the required files either copying and pasting the code into an IDE or opening it in an IDE (Inparticular; Repl.IT, Visual Studios, Notepad++, etc.) for testing. Recommended: Use the command line console whilst in both build mode and with the finished build.
+
+### (0.6) How to calculate probabilities
