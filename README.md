@@ -82,6 +82,9 @@ For the Download, ZIP the repository and then extract the required files copying
 
 ### (0.4) How to use integral calculus to solve practical problems involving area
 
+#### Calculus 
+The fundamental idea of calculus is to study change by studying "instantaneous" change, by which we mean changes over tiny intervals of time.
+
 #### Integral 
 In mathematics, an integral assigns numbers to functions in a way that can describe displacement, area, volume, and other concepts that arise by combining infinitesimal data. 
 
