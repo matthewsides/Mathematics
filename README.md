@@ -134,6 +134,7 @@ For the Download, ZIP the repository and then extract the required files either 
 
 Rule for Conditional Probability
 
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Conditional_Property_Formula.png?raw=true "Optional Title")
 
 #### What is the probability of having 7 when rolling two die?
 
