@@ -47,6 +47,10 @@ Whilst the Greatest common divisor as explained briefly in the above paragraph d
 
 ### (0.2) What is the probability of a random integer being divisible by 5?
 
+Probability of a random infinite discrete formula
+
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Infinite_Discrete_Formula.png?raw=true "Optional Title")
+
 The probability of a random integer being divisible by 5 is 1/5 how do we know this is plausable?, this is because every fifth number is divisible by 5 essentially meaning that every number that ends with either a 0 or 5 can be divided by 5 e.g 5 10 15 20 (numbers in the five timetable), which is every one in five number.Whilst all other numbers in between {0,1,2,3,4} are not probable to equate or be divisible by the random integer, giving the same value of 1 / 5 (note: the equavilance classes {0,1,2,3,4} cannot nor will have the same probality as 5 when dividing by a random integer as it is just not feasable).
 
 
