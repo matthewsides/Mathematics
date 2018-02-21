@@ -122,6 +122,13 @@ Algorithm:
 
 // whilst if the cords do not equal to either a triangle, square or rectangle (simple shapes) no shape is given (outputted) just text stating that the values given are not a simple shape.
 
+
+
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Shape_Comparator_Table.png?raw=true "Optional Title")
+
+
+
+
 Links used for reference:
 
 http://www.cplusplus.com/reference/cmath/pow/
@@ -133,6 +140,7 @@ The above link is and was integeral to understanding the progam, as pythagoras (
 View C++ file labelled 'simple-shape-identifier' for code-snippet pertaining to the above documentation
 
 For the Download, ZIP the repository and then extract the required files either copying and pasting the code into an IDE or opening it in an IDE (Inparticular; Repl.IT, Visual Studios, Notepad++, etc.) for testing. Recommended: Use the command line console whilst in both build mode and with the finished build.
+
 
 ### (0.6) Probability
 
