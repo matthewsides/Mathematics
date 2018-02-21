@@ -132,6 +132,9 @@ For the Download, ZIP the repository and then extract the required files either 
 
 ### (0.6) Probability
 
+Rule for Conditional Probability
+
+
 #### What is the probability of having 7 when rolling two die?
 
 The probablity of having a seven when rolling two die is 6/36 = 1/6, this outcome was found through adding the numbers on the two die for each of the possible outcomes, counting how many times the sum was seven. Through doing so it can be seen that the sum is seven for six of the possible outcomes. Thus the sum is a 7 in 6 of the 36 outcomes and hence the probability of rolling a 7 is 6/36 = 1/6.
