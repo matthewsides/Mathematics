@@ -122,7 +122,9 @@ Algorithm:
 
 // whilst if the cords do not equal to either a triangle, square or rectangle (simple shapes) no shape is given (outputted) just text stating that the values given are not a simple shape.
 
+#### Comparator Table (Properties of Quadrilaterals)
 
+The shape comparator table presented below details all the possible outcomes through comparision of coordinates and points, though not all the shapes were implemented into the coded program the outcome is illustrated none the less below showing the variables required to form each shape.
 
 ![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Shape_Comparator_Table.png?raw=true "Optional Title")
 
