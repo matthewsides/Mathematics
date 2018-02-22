@@ -134,15 +134,15 @@ The below images detail formulas that were used, the methodology and ideology ap
 
 Slope Formula-
 
-![Alt text](?raw=true "Optional Title")
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Slope_Formula.png?raw=true "Optional Title")
 
 Distance Formula-
 
-![Alt text](?raw=true "Optional Title")
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Distance_Formula.png?raw=true "Optional Title")
 
 Mid Point Formula-
 
-![Alt text](?raw=true "Optional Title")
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Midpoint_Fomula.gif?raw=true "Optional Title")
 
 Parallel Lines- 
 
