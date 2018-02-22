@@ -9,7 +9,7 @@
 |-------------|-----------------|----------------------|--------------------------------|
 | 1.00        |  Matthew Sides  | 27th  November 2017  | Initial Version                |
 |1.01         |  Matthew Sides  | 5th December 2017    | Edited to suit Mapping docs    | 
-|             |                 |                      |                                | 
+|1.02         | Matthew Sides   | 22th February 2018   | Slight changes to meet criteria| 
 |             |                 |                      |                                |
 |             |                 |                      |                                |
 |                                                                                       | 
@@ -128,6 +128,45 @@ The shape comparator table presented below details all the possible outcomes thr
 
 ![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Shape_Comparator_Table.png?raw=true "Optional Title")
 
+#### Formulas and Methodologys Applied 
+
+The below images detail formulas that were used, the methodology and ideology applied in the creation of a program capable of generating geometrical shapes based on user input (identify shapes based on input).
+
+Slope Formula-
+
+![Alt text](?raw=true "Optional Title")
+
+Distance Formula-
+
+![Alt text](?raw=true "Optional Title")
+
+Mid Point Formula-
+
+![Alt text](?raw=true "Optional Title")
+
+Parallel Lines- 
+
+Two Lines are parallel if they are the same distance apart, never crossing each other, essentially having the same slope and different y-intercept's.
+
+Perpendicular Lines- 
+
+A perpendicular line is said to form based on the relationship between two lines which intersect essentially creating a right angle (90 degree angle), expanding on the idea of an perpendicular line, one is formed if their slopes are negative reciprocals.
+
+Parallelogram- 
+
+A parallelogram is a simple (non-self-intersecting) quadrilateral with two pairs of parallel sides.
+
+Rectangle-
+
+A quadrilateral with 4 right angles.
+
+Rhombus-
+
+A quadrilateral with four equal sides.
+
+Square-
+
+A quadrilateral with four equal sides and four right angles.
 
 
 
