@@ -16,36 +16,35 @@
 
 ## Table Of Contents
 
-0.0 Introduction
+0 Introduction
 
-0.1 Calculation of GCD and LCM ...
+1  Calculation of GCD and LCM 
 
-0.2 Probability of Int being Divisible by 5 ...
+2 Probability of Int being Divisible by 5 
 
-0.3 Algorithm to calculate Arithmetic and Geometric Progression
+3 Algorithm to calculate Arithmetic and Geometric Progression
 
-0.4 How to use integral calculus to solve practical problems involving area
+4 How to use integral calculus to solve practical problems involving area
 
-0.5 Algorithm to identify simple shapes using co-ordinates
+5 Algorithm to identify simple shapes using co-ordinates
 
-0.6 Probability
+6 Probability
 
+7
 
-
-
-### (0.0) Introduction 
+### [0] Introduction
 
 This repository documents information relating to  mathematical methodologies, ideology's and questions that have been defined, answered and documented. 
 
 
-### (0.1) How to calculate the greatest common divisor and-least common-multiple of a given pair of numbers?
+### [1] How to calculate the greatest common divisor and-least common-multiple of a given pair of numbers?
 
 The GCD an acronym for Greatest Common Divisor, is the largest number that divides into a pair of given numbers. How may this be calculated? The greatest common divisor of a given pair of numbers may be calculated through firstly finding the divisors of the given numbers. For instance the divisors of sixty would be [1,2,3,4,5,15,...],whilst the divisors of say forty-five would be [1,2,3,5,9,15,...]. Through following the above metholodgy and finding the divisors of the given pair of numbers, the first part or step is completed (done), the next step would be to find the correlation between the two lists grafted, essentially finding the greatest number that these two lists share in common. In this example the GCD is 15.
 
 
 Whilst the Greatest common divisor as explained briefly in the above paragraph deals with division and finding the greatest common number (divisor), LCM which stands for Lowest Common Multiple relates to the smallest number that is a multiple of both given pair of numbers.For instance the multiples of 6 are [ 6, 12, 18, 24, 30,...], whilst the multiples of 8 are [8, 16, 24, 32, 40,...], therefore it is possible to deduce that the lowest common multiple of the given pairs of numbers (in this example 6 and 8) is 24, as it is the lowest integer that may be multipled into both numbers.
 
-### (0.2) What is the probability of a random integer being divisible by 5?
+### [2] What is the probability of a random integer being divisible by 5?
 
 Probability of a random infinite discrete formula
 
@@ -56,7 +55,7 @@ The probability of a random integer being divisible by 5 is 1/5 how do we know t
 
 Therefore to look at this from another perspective we need to understand that we cannot generate a random number and only create the appearance of random selection from a finite or select amount of possibilities  repeatedly, whilst increasing the size of the finite set of numbers (note:since the parameters or range of numbers are set) to ensure a different outcome each time.
 
-### (0.3) Algorithm to calculate Arithmetic and Geometric Progression
+### [3] Algorithm to calculate Arithmetic and Geometric Progression
 
 Objective- Create a Program capable of calculating the Arithmetic and Geometric Progression of an inputted number.
 
@@ -84,7 +83,7 @@ View Notepad file labelled 'Calculator-arithmetic-geometric' for code-snippet pe
 
 For the Download, ZIP the repository and then extract the required files copying and pasting the code into an ID (Inparticular; Repl.IT, Visual Studios, etc.) for testing. Recommended: Use the command line console whilst in both build mode and with the finished build.
 
-### (0.4) How to use integral calculus to solve practical problems involving area
+### [4] How to use integral calculus to solve practical problems involving area
 
 #### Calculus 
 The fundamental idea of calculus is to study change by studying "instantaneous" change, by which we mean changes over tiny intervals of time.
@@ -96,7 +95,7 @@ In mathematics, an integral assigns numbers to functions in a way that can descr
 An Indefinite integral is essentially the opposite of an derivative 
 
 
-### (0.5) Algorithm to identify simple shapes using co-ordinates
+### [5] Algorithm to identify simple shapes using co-ordinates
 
 Objective- Create a Program capable of identifying simple shapes using co-ordinates.
 
@@ -183,7 +182,7 @@ View C++ file labelled 'simple-shape-identifier' for code-snippet pertaining to 
 For the Download, ZIP the repository and then extract the required files either copying and pasting the code into an IDE or opening it in an IDE (Inparticular; Repl.IT, Visual Studios, Notepad++, etc.) for testing. Recommended: Use the command line console whilst in both build mode and with the finished build.
 
 
-### (0.6) Probability
+### [6] Probability
 
 Rule for Conditional Probability
 
@@ -206,3 +205,10 @@ The probability of having a seven after rolling a two is 1/6 and does not change
 
 The probability of having a seven and knowing for sure that a two will be rolled equates to 11/36, not changing from the usual probability as all the possible outcomes are still avaliable including the recently rolled seven, thus the probability in this instance has not changed (Similiar to the above question and  a trick question, expecting one to think that the probability would have changed from what it ussually would be in that instance using two die).
 
+### [7] Vectors 
+
+A vector is a quantity with two independent properties; magnitude and direction.For instance a displacement from a fixed point A to a 
+fixed point B is a vector because its magnitude is the distance between A and B and the direction is the direction in which it is 
+necessary to move in a straight line to get from A to B.
+
+#### Determine shape parameters using appropriate vector methods.
