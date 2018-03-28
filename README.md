@@ -218,3 +218,10 @@ The term also denotes the mathematical or geometrical representation of such a q
 In contrast to vectors, normal quantities which do not have direction are called scalars.
 
 #### Determine shape parameters using appropriate vector methods.
+
+
+Algorithm to determine shape parameters using appropriate vector methods-
+
+
+
+### [8] Rate of change
