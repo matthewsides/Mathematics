@@ -211,4 +211,8 @@ A vector is a quantity with two independent properties; magnitude and direction.
 fixed point B is a vector because its magnitude is the distance between A and B and the direction is the direction in which it is 
 necessary to move in a straight line to get from A to B.
 
+The term also denotes the mathematical or geometrical representation of such a quantity.Vectors are usually represented in diagrams by directional lines, i.e. lines with arrows indicating the direction.
+
+In contrast to vectors, normal quantities which do not have direction are called scalars.
+
 #### Determine shape parameters using appropriate vector methods.
