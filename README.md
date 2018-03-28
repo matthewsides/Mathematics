@@ -225,3 +225,5 @@ Algorithm to determine shape parameters using appropriate vector methods-
 
 
 ### [8] Rate of change
+
+The rate of change is the average rate in which a function changes value, illustrating the difference between the function result and input result. The rate of change  is generally represented as a ratio between a change in one variable relative to a corresponding change in another; graphically, the rate of change is represented by the slope of a line.
