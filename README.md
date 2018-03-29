@@ -234,9 +234,13 @@ Whilst delving further into the process,the average rate of change function enta
 
 Examples pertaining to the rate of change within an algebraic function (solved):
 
+-Q1|S1
+
+- The average rate of change of f(x) on the interval [a,b] is f(b)−f(a)/b−a.
+
 - F(x) = x3+10
 
-- Rate of change is 0 to 1.
+- Rate of change from 0 to 1.
 
 - a = 0, b = 0
 
@@ -247,4 +251,23 @@ Examples pertaining to the rate of change within an algebraic function (solved):
 |                |                 |                   | = 1|
                                                   
 
-Answer the average rate of change is 1.
+- Answer the average rate of change is 1.
+
+- Q2|S2
+
+- The average rate of change of f(x) on the interval [a,b] is f(b)−f(a)/b−a.
+
+- F(x) = 2x+3
+
+- Rate of change from 10 to 100.
+
+- a = 10, b = 100
+
+
+|                |                 |                   |    |
+|----------------|-----------------|-------------------|----|
+| f(b) - f(a)    |  2((100))^2+3-(2((10))^2+3) |       |    |            
+|  b - a         |  / 100 - (10)      |                |    |
+|                |                 |                   | = 220|
+
+- Answer the average rate of change is 220.
