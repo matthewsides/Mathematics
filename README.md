@@ -231,6 +231,6 @@ Rate of change is the average rate in which a function changes value, illustrati
 Whilst delving further into the process,the average rate of change function entails a calculation of the the amount of change in one item divided by the corresponding amount of change in another. Using function notation, the Average rate of Change of a function may be defined from a to x as (formula):
 
 
-![Alt text](https://github.com/matthewsides/Mathematics/blob/master/average_rate_of_change.jpg? =250x250)
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/average_rate_of_change.jpg?raw=true&s=200)
 
 Examples pertaining to the rate of change within an algebraic function (solved):
