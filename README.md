@@ -233,3 +233,15 @@ Whilst delving further into the process,the average rate of change function enta
 <img src="https://github.com/matthewsides/Mathematics/blob/master/average_rate_of_change.jpg" width="280" height="100">
 
 Examples pertaining to the rate of change within an algebraic function (solved):
+
+- F(x) = x3+10 
+Rate of change is 0 to 1.
+
+a = 0
+b = 0
+
+   f(b) - f(a)        ((1))^3 + 10 - ( ((0))^3 + 10 
+   ___________        ______________________________ = 1
+      b - a                    1 - (0)
+
+Answer the average rate of change is 1.
