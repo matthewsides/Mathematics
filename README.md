@@ -213,7 +213,7 @@ necessary to move in a straight line to get from A to B.
 
 The term also denotes the mathematical or geometrical representation of such a quantity.Vectors are usually represented in diagrams by directional lines, i.e. lines with arrows indicating the direction.
 
-![Alt text](https://github.com/matthewsides/Mathematics/blob/master/vector.png?raw=true "Optional Title")
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/vector.png?raw=true "Optional Title" =250x250)
 
 In contrast to vectors, normal quantities which do not have direction are called scalars.
 
