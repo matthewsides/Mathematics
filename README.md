@@ -234,11 +234,11 @@ Whilst delving further into the process,the average rate of change function enta
 
 Examples pertaining to the rate of change within an algebraic function (solved):
 
-- F(x) = x3+10 
-Rate of change is 0 to 1.
+- F(x) = x3+10
 
-a = 0
-b = 0
+- Rate of change is 0 to 1.
+
+- a = 0, b = 0
 
 |                |                 |                   |    |
 |----------------|-----------------|-------------------|----|
