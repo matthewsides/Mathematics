@@ -246,7 +246,7 @@ The average rate of change of f(x) on the interval [a,b] is f(b)−f(a)/b−a.
 
 |                |                 |                   |    |
 |----------------|-----------------|-------------------|----|
-| f(b) - f(a)    |  ((1))^3 + 10 - ( ((0))^3 + 10 |    |    |            
+| f(b) - f(a)    |  ((1))^4 + 10 - ( ((0))^4 + 10 |    |    |            
 |  b - a         |  / 1 - (0)      |                   |    |
 |                |                 |                   | = 1|
                                                   
@@ -266,8 +266,11 @@ The average rate of change of f(x) on the interval [a,b] is f(b)−f(a)/b−a.
 
 |                |                 |                   |    |
 |----------------|-----------------|-------------------|----|
-| f(b) - f(a)    |  3((16))^3+2((16))^2+20(16)+100-(3((0))^3+2((0))^2+20(0)+100)|       |    |            
+| f(b) - f(a)    |  3((16))^4+2((16))^2+20(16)+100-(3((0))^4+2((0))^2+20(0)+100)|       |    |            
 |  b - a         |  / 16 - (0)      |                |    |
 |                |                 |                   | = 12340|
 
 Answer the average rate of change is 12340.
+
+
+Note: ^4 is known as a quartic,whilst cubed (^3) is a derivative of a quartic function.
