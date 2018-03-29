@@ -253,6 +253,8 @@ The average rate of change of f(x) on the interval [a,b] is f(b)−f(a)/b−a.
 
 Answer the average rate of change is 1.
 
+Conversion to Binary = 1
+
 ##### Q2|S2
 
 The average rate of change of f(x) on the interval [a,b] is f(b)−f(a)/b−a.
@@ -272,5 +274,10 @@ The average rate of change of f(x) on the interval [a,b] is f(b)−f(a)/b−a.
 
 Answer the average rate of change is 12340.
 
+Conversion to Hex = 
 
 Note: ^4 is known as a quartic,whilst cubed (^3) is a derivative of a quartic function.
+
+Conversion Table:
+
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/vector.png?raw=true "Optional Title")
