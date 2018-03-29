@@ -274,7 +274,7 @@ The average rate of change of f(x) on the interval [a,b] is f(b)−f(a)/b−a.
 
 Answer the average rate of change is 12340.
 
-Conversion to Hex  = 
+Conversion to Hex  = 3034
 
 Note: ^4 is known as a quartic,whilst cubed (^3) is a derivative of a quartic function.
 
