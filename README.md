@@ -311,6 +311,8 @@ x tends to infinite, meaning that the whole infinite can be divided into parts a
 
 Through Multiplying the function times the derivative of the function, its possible to calculate the area and create an infinite area or rectangles to find the area and since we know the area of the rectangle is width times length, it makes it easier to calculate.
 
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Area_IC.png?raw=true "Optional Title")
+
 When using intergral also using limit, it is optimal to tend to infinite, since not all of an area is usually covered. Through using infinite it will make it plausable to get the closest value since the blank parts intergrate numerous rectangles (shapes) to fill the empty spaces.
 
 ![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Area_Rec.png?raw=true "Optional Title")
