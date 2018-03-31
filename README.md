@@ -313,6 +313,8 @@ Through Multiplying the function times the derivative of the function, its possi
 
 When using intergral also using limit, it is optimal to tend to infinite, since not all of an area is usually covered. Through using infinite it will make it plausable to get the closest value since the blank parts intergrate numerous rectangles (shapes) to fill the empty spaces.
 
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Area_Rec.png?raw=true "Optional Title")
+
 
 Examples of finding area using integral calculas -
 
