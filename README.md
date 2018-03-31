@@ -293,6 +293,10 @@ Conversion Table:
  
 Intergral calculas is used to calculate whats inside a  curve, if the shape is nnormalor common normal  the use  of intergral  is not required. However if the shape is complex, use it to the given a and b points (two points in a graph ), calculating the area of a to b (area of a function).
 
+Integral calculas-
+
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Conversion_table.png?raw=true "Optional Title")
+
 The Integral symbol ∫ ,represents intergration (the finding of an intergral or intergrals) (intergral formula) and is the opposite to derivation. The a to b signs are presented on each scale of the ∫ symbol since we want to calculate from a to b.
 
 The symbol dx, called the differential of the variable x, indicates that the variable of integration is x. Finding the integral of a function with respect to x means finding the area to the x axis from the curve (area under the curve).
@@ -301,9 +305,25 @@ A higher derirative is a way of attaining a complex function.While a simple func
 
 x tends to infinite, meaning that the whole infinite can be divided into parts and through evaluation of each part a sum may be attained.  
 
+
+Integral calculas Main Formulas- 
+
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Conversion_table.png?raw=true "Optional Title")
+
+
+
+
 Through Multiplying the function times the derivative of the function, its possible to calculate the area and create an infinite area or rectangles to find the area and since we know the area of the rectangle is width times length, it makes it easier to calculate.
 
 When using intergral also using limit, it is optimal to tend to infinite, since not all of an area is usually covered. Through using infinite it will make it plausable to get the closest value since the blank parts intergrate numerous rectangles (shapes) to fill the empty spaces.
+
+
+Examples of finding area using integral calculas -
+
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Conversion_table.png?raw=true "Optional Title")
+
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Conversion_table.png?raw=true "Optional Title")
+
 
 
 
