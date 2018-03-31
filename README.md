@@ -299,19 +299,15 @@ Integral calculas-
 
 The Integral symbol ∫ ,represents intergration (the finding of an intergral or intergrals) (intergral formula) and is the opposite to derivation. The a to b signs are presented on each scale of the ∫ symbol since we want to calculate from a to b.
 
+Integral calculas Main Formulas- 
+
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/IC_MF.png?raw=true "Optional Title")
+
 The symbol dx, called the differential of the variable x, indicates that the variable of integration is x. Finding the integral of a function with respect to x means finding the area to the x axis from the curve (area under the curve).
 
 A higher derirative is a way of attaining a complex function.While a simple function is called a liniaer function as it behaves as a line. when theres a more complex function it becomes curved, the higher deriratives are a way of turning a curved line into a straight line (way of making function simplier).
 
 x tends to infinite, meaning that the whole infinite can be divided into parts and through evaluation of each part a sum may be attained.  
-
-
-Integral calculas Main Formulas- 
-
-![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Conversion_table.png?raw=true "Optional Title")
-
-
-
 
 Through Multiplying the function times the derivative of the function, its possible to calculate the area and create an infinite area or rectangles to find the area and since we know the area of the rectangle is width times length, it makes it easier to calculate.
 
