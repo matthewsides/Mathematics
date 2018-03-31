@@ -320,7 +320,7 @@ When using intergral also using limit, it is optimal to tend to infinite, since 
 
 Examples of finding area using integral calculas -
 
-![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Conversion_table.png?raw=true "Optional Title")
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/IC_E1.png?raw=true "Optional Title")
 
 ![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Conversion_table.png?raw=true "Optional Title")
 
