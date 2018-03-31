@@ -289,4 +289,34 @@ Conversion Table:
 ![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Conversion_table.png?raw=true "Optional Title")
 
 
-### [9] Integral Calculas
+### [9] Integral Calculus
+ 
+
+The Integral symbol ∫ , (the opposite to derivation), limits the 
+
+Finding the integral of a function with respect to x means finding the area to the x axis from the curve.
+
+limits a way of calculating what happens to a function when it tends to a specific limit
+
+whats the behaviour of a function when it tends to a specific value (normally do this to infinite)
+
+x tends to infinite (can divide the whole infinite into parts to evaluate each part to get the sum)
+
+higher derirative, a way of getting a complex function
+
+simple function is called a liniaer function as it behaves as a line 
+
+when theres a more complex function it becomes curved the higher deriratives are a way of turning a curved line into a straight line (way of making function simplier)
+
+intergral calculas used to calculate whats inside the curve if its a normal common shape no need to use intergral however if the shape is complex use it to given an a and b (two points in a graph ) calculate the area of a to b (area of a function)
+
+s/f symbol is the symbol for intergral using the intergral idea or formula/ a to b is because want to calculate from a to b
+
+multiply the function * the derirative of the function (this is done because its possible to calculate the area and say lets create an infinite area or rectangles to find the area and since we know the area of the rectangle is ___.).
+f(x) *dx (dx is the derirative)
+when using intergral also using limit/ tend to infinite/since not all area covered / however using infite will make it plausable to get the closest value since there will be so many rectangles
+f(a)-f(b)
+f(-2) -f(2)
+the intergral for the function is - x[3]|3 + 4x x = -2 x = 2
+
+
