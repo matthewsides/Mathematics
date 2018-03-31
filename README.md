@@ -295,7 +295,7 @@ Intergral calculas is used to calculate whats inside a  curve, if the shape is n
 
 Integral calculas-
 
-![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Conversion_table.png?raw=true "Optional Title")
+![Alt text](https://github.com/matthewsides/Mathematics/blob/master/IC.png?raw=true "Optional Title")
 
 The Integral symbol ∫ ,represents intergration (the finding of an intergral or intergrals) (intergral formula) and is the opposite to derivation. The a to b signs are presented on each scale of the ∫ symbol since we want to calculate from a to b.
 
