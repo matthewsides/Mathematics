@@ -291,32 +291,19 @@ Conversion Table:
 
 ### [9] Integral Calculus
  
+Intergral calculas is used to calculate whats inside a  curve, if the shape is nnormalor common normal  the use  of intergral  is not required. However if the shape is complex, use it to the given a and b points (two points in a graph ), calculating the area of a to b (area of a function).
 
-The Integral symbol ∫ , (the opposite to derivation), limits the 
+The Integral symbol ∫ ,represents intergration (the finding of an intergral or intergrals) (intergral formula) and is the opposite to derivation. The a to b signs are presented on each scale of the ∫ symbol since we want to calculate from a to b.
 
-Finding the integral of a function with respect to x means finding the area to the x axis from the curve.
+The symbol dx, called the differential of the variable x, indicates that the variable of integration is x. Finding the integral of a function with respect to x means finding the area to the x axis from the curve (area under the curve).
 
-limits a way of calculating what happens to a function when it tends to a specific limit
+A higher derirative is a way of attaining a complex function.While a simple function is called a liniaer function as it behaves as a line. when theres a more complex function it becomes curved, the higher deriratives are a way of turning a curved line into a straight line (way of making function simplier).
 
-whats the behaviour of a function when it tends to a specific value (normally do this to infinite)
+x tends to infinite, meaning that the whole infinite can be divided into parts and through evaluation of each part a sum may be attained.  
 
-x tends to infinite (can divide the whole infinite into parts to evaluate each part to get the sum)
+Through Multiplying the function times the derivative of the function, its possible to calculate the area and create an infinite area or rectangles to find the area and since we know the area of the rectangle is width times length, it makes it easier to calculate.
 
-higher derirative, a way of getting a complex function
+When using intergral also using limit, it is optimal to tend to infinite, since not all of an area is usually covered. Through using infinite it will make it plausable to get the closest value since the blank parts intergrate numerous rectangles (shapes) to fill the empty spaces.
 
-simple function is called a liniaer function as it behaves as a line 
-
-when theres a more complex function it becomes curved the higher deriratives are a way of turning a curved line into a straight line (way of making function simplier)
-
-intergral calculas used to calculate whats inside the curve if its a normal common shape no need to use intergral however if the shape is complex use it to given an a and b (two points in a graph ) calculate the area of a to b (area of a function)
-
-s/f symbol is the symbol for intergral using the intergral idea or formula/ a to b is because want to calculate from a to b
-
-multiply the function * the derirative of the function (this is done because its possible to calculate the area and say lets create an infinite area or rectangles to find the area and since we know the area of the rectangle is ___.).
-f(x) *dx (dx is the derirative)
-when using intergral also using limit/ tend to infinite/since not all area covered / however using infite will make it plausable to get the closest value since there will be so many rectangles
-f(a)-f(b)
-f(-2) -f(2)
-the intergral for the function is - x[3]|3 + 4x x = -2 x = 2
 
 
