@@ -287,3 +287,6 @@ Binary has 2 base
 Conversion Table:
 
 ![Alt text](https://github.com/matthewsides/Mathematics/blob/master/Conversion_table.png?raw=true "Optional Title")
+
+
+### [9] Integral Calculas
