@@ -219,10 +219,9 @@ In contrast to vectors, normal quantities which do not have direction are called
 
 #### Determine shape parameters using appropriate vector methods.
 
+Code to determine shape parameters using appropriate vector methods-
 
-Algorithm to determine shape parameters using appropriate vector methods-
-
-
+[Shape parameters determined using vector methods](https://github.com/matthewsides/Mathematics/blob/master/vector_shapes_idt.js?raw=true)
 
 ### [8] Rate of change
 
